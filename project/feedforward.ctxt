@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=feedforward
+comment1.params=main1
+comment1.target=feedforward(Network[])
+comment2.params=n
+comment2.target=double\ sigmoid(double)
+comment3.params=ary
+comment3.target=void\ inputs(double[])
+comment4.params=a
+comment4.target=void\ toArray(int)
+comment5.params=inputs
+comment5.target=double[][]\ calculate(double[])
+comment6.params=
+comment6.target=void\ main()
+numComments=7

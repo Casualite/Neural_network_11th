@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=backprop
+comment1.params=k\ learn\ expected
+comment1.target=backprop(Network[],\ double,\ double[])
+comment2.params=x
+comment2.target=double\ dsigmoid(double)
+comment3.params=
+comment3.target=void\ expect()
+comment4.params=a
+comment4.target=void\ error(int)
+comment5.params=a
+comment5.target=void\ hiddenerror(int)
+comment6.params=a
+comment6.target=void\ changeweights(int)
+comment7.params=
+comment7.target=void\ main()
+numComments=8

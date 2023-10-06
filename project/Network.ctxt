@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Network
+comment1.params=no
+comment1.target=Network(int)
+comment2.params=
+comment2.target=Network()
+comment3.params=sz
+comment3.target=void\ node(int)
+comment4.params=a\ ary\ c
+comment4.target=void\ weights(int,\ int[],\ int)
+comment5.params=ary
+comment5.target=void\ network(int[])
+numComments=6
